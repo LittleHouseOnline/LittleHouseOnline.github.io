@@ -1,0 +1,91 @@
+
+header{
+    background-color:rgba(67, 67, 67, 0.497);
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+
+
+
+
+
+
+#registro{
+    color: aliceblue;
+}
+
+#registro h3{
+    color: aliceblue;
+}
+
+#registro img{
+    width: 29vh;
+    animation: none;
+    margin-bottom: 20px;
+}
+
+#registro i{
+    font-size: 5vh;
+    margin-left: 10px;
+}
+
+#registro .content{
+    width: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+#registro .informacion{
+    background-color: rgba(105, 105, 105, 0.661); 
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#registro form{
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+}
+
+#registro form input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    border-top: 1px solid rgb(255, 255, 255);
+    font-size: 4vh;
+    color: rgb(255, 255, 255);
+    padding: 9px;
+    height: 50%;
+    background-color: rgba(140, 140, 250, 0);
+}
+
+form input::placeholder{
+    color: aliceblue;
+}
+
+#registro button{
+    color: rgb(62, 61, 61);
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 5px rgb(253, 253, 253);
+    width: max-content;
+    font-size: 3vh;
+    margin-left: 5px;
+    padding: 10px;
+    animation: none;
+}
+
+#registro a{
+    text-decoration: none;
+    color: white;
+}
+
