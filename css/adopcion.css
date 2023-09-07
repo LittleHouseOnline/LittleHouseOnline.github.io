@@ -490,7 +490,7 @@ main p{
     #equis {
         position: absolute;
         top: 75px;
-        right: 35px;
+        right: 38px;
         font-size: 1.5rem;
     }
 
@@ -517,7 +517,7 @@ main p{
     }
 
     #equis {
-        right: 25px;
+        right: 27px;
     }
 
 }
