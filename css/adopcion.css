@@ -293,24 +293,11 @@ main p{
 
 
 
-@media (max-height: 600px){
-    #img_emergente img{
-        height: 100%;
-        width: auto;
-    }
-}
-
-
 @media (max-width: 1047px){
     #navgrande{
         background-color:rgba(37, 49, 104, 0.733);
     }
 }
-
-
-
-
-
 
 
 
@@ -487,7 +474,7 @@ main p{
     }
 
     #img_emergente {
-        width: 55%;
+        width: 60%;
     }
 
     #descripcion {
@@ -582,7 +569,7 @@ main p{
 
 
     #img_emergente {
-        width: 55%;
+        width: 70%;
     }
     
 }
@@ -599,7 +586,7 @@ main p{
 
 
     #img_emergente {
-        width: 65%;
+        width: 75%;
     }
 }
 
@@ -612,7 +599,7 @@ main p{
 
 
     #img_emergente {
-        width: 75%;
+        width: 80%;
     }
 
 }
